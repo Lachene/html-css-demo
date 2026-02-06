@@ -6,8 +6,6 @@ hi
 this is my html and css demo
 
 i made this to show how i write basic html and css  
-no frameworks  
-no libraries  
 
 i focused on layout and spacing  
 it works on desktop and phone
